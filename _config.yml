@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Tenglong Huang (黄腾龙)"
-description              : "Lorem . "
-repository               : # "RayeRen/acad-homepage.github.io"
+description              : "Lorem ."
+repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn :# true
 
 # google analytics
