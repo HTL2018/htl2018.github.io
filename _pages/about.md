@@ -84,6 +84,10 @@ My research interest includes neural machine translation and computer vision. I 
 - *2019.09 - 2024.05*, Harbin Institute of Technology, College of Astronautics, Control Science and Engineering, Doctor of Engineering (师从[高会军教授](https://homepage.hit.edu.cn/gaohuijun)). 
 - *2015.09 - 2019.06*, Henan University of Technology, College of Electrical Engineering, Automation, Bachelor of Engineering (师从[闫晶晶教授](https://cee.haut.edu.cn/info/1093/7589.htm)).
 
+# 🧑‍🎨 Services
+- *2019.09 - 2024.05*, Harbin Institute of Technology, College of Astronautics, Control Science and Engineering, Doctor of Engineering (师从[高会军教授](https://homepage.hit.edu.cn/gaohuijun)). 
+- *2015.09 - 2019.06*, Henan University of Technology, College of Electrical Engineering, Automation, Bachelor of Engineering (师从[闫晶晶教授](https://cee.haut.edu.cn/info/1093/7589.htm)).
+
 
 <!-- 
 # 💬 Invited Talks
