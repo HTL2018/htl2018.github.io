@@ -39,7 +39,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Tenglong Huang**, Huihui Pan\*, Weichao Sun, Huijun Gao\*
 
-[**Main Contributions:**](https://ieeexplore.ieee.org/abstract/document/9714284) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Main Contributions:**](https://ieeexplore.ieee.org/abstract/document/9714284) 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
