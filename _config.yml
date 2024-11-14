@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : # e.g., "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "huangtenglong@hotmail.com"
+  email            : huangtenglong@hotmail.com
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -53,11 +53,11 @@ author:
   tumblr           :
   twitter          : 
   vine             :
-  weibo            : "https://www.zhihu.com/people/hiterhuang"
+  weibo            : 
   xing             :
   youtube          :
   wikipedia        :
-  #zhihu            : "https://www.zhihu.com/people/hiterhuang"
+  zhihu            : https://www.zhihu.com/people/hiterhuang
 
 # Reading Files
 include:
