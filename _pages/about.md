@@ -21,7 +21,7 @@ redirect_from:
 
 My research interest includes intelligent vehicles, mobile robots, robotic manipulators, intelligent agriculture, and related research topics on nonlinear control, intelligent control, motion planning, fault-tolerant control, etc. 
 
-If you are seeking any form of **academic cooperation**, please feel free to email me at [huangtenglong@hotmail.com].
+If you are seeking any form of **academic cooperation**, please feel free to email me at [huangtenglong@hotmail.com]().
 
 <!-- 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
@@ -52,8 +52,9 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.09 - 2024.05*, Harbin Institute of Technology, College of Astronautics, Control Science and Engineering, Doctor of Engineering (师从[高会军教授](https://homepage.hit.edu.cn/gaohuijun)). 
+- *2015.09 - 2019.06*, Henan University of Technology, College of Electrical Engineering, Automation, Bachelor of Engineering (师从[闫晶晶教授](https://cee.haut.edu.cn/info/1093/7589.htm)).
+
 
 <!-- 
 # 💬 Invited Talks
