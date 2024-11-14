@@ -37,7 +37,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [Sine Resistance Network-Based Motion Planning Approach for Autonomous Electric Vehicles in Dynamic Environments](https://ieeexplore.ieee.org/abstract/document/9714284)
 
-**Tenglong Huang**, Huihui Pan^*, Weichao Sun, Huijun Gao^*
+**Tenglong Huang**, Huihui Pan^{*}, Weichao Sun, Huijun Gao^{*}
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
