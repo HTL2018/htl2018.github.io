@@ -52,6 +52,8 @@ published in IEEE Transactions on Transportation Electrification
 
 [Approximation-Free Prespecified Time Bionic Reliable Control for Vehicle Suspension](https://ieeexplore.ieee.org/document/10246850)
 
+published in IEEE Transactions on Automation Science and Engineering
+
 **Tenglong Huang**, Jue Wang, Huihui Pan\*
 
 [**Main Contributions:**](https://ieeexplore.ieee.org/abstract/document/9714284) 
