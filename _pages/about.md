@@ -57,8 +57,7 @@ published in IEEE Transactions on Automation Science and Engineering
 **Tenglong Huang**, Jue Wang, Huihui Pan\*
 
 [**Main Contributions:**](https://ieeexplore.ieee.org/abstract/document/9714284) 
-- A pre-specified time controller is designed that can make the steady-state responses of error signals converge to a neighborhood of 0 over a pre-specified finite time interval. Meanwhile, the system transient responses satisfy the performance constraints. 
-- By introducing time delay information, the designed control scheme is model-free and approximation-free. The proposed controller is robust to unknown external disturbances. Actuator faults can be effectively compensated and handled to enhance reliability. 
+- A pre-specified time reliable controller is designed that can make the steady-state responses of error signals converge to a neighborhood of 0 over a pre-specified finite time interval. Meanwhile, the system transient responses satisfy the performance constraints. Actuator faults can be effectively compensated and handled to enhance reliability. 
 - Inspired by animal bionic structures, asymmetric X-type bio-inspired dynamics are embedded into this controller, which further reduces energy consumption. Simple and effective energy-efficient control with reliable vibration isolation is achieved.
 </div>
 </div>
