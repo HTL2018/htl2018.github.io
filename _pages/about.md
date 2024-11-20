@@ -112,7 +112,9 @@ published in Control Engineering Practice
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [A safe motion planning and reliable control framework for autonomous vehicles](https://ieeexplore.ieee.org/abstract/document/10417770), Huihui Pan\*, Mao Luo, Jue Wang, **Tenglong Huang**, Weichao Sun, **IEEE Transactions on Intelligent Vehicles**
+- [Path Planning and Fault-tolerant Control Based on Resistance Network for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9338441), **Tenglong Huang**,  Huihui Pan\*, Mao Luo, Jue Wang, **Tenglong Huang**, Weichao Sun, **4th CAA International Conference on Vehicular Control and Intelligence (CVCI 2020)**
+
 
 <!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
