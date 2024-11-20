@@ -96,7 +96,7 @@ published in IEEE Transactions on Intelligent Vehicles
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TASE</div><img src='images/CEP-06.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CEP</div><img src='images/CEP-06.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Sensor Fault Detection, Isolation, and Estimation Method for Intelligent Vehicles](https://www.sciencedirect.com/science/article/abs/pii/S0967066123001892)
