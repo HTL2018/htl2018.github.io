@@ -84,6 +84,8 @@ published in IEEE Transactions on Transportation Electrification
 
 [Adaptive Bioinspired Preview Suspension Control With Constrained Velocity Planning for Autonomous Vehicles](https://ieeexplore.ieee.org/abstract/document/10120925)
 
+published in IEEE Transactions on Intelligent Vehicles
+
 **Tenglong Huang**, Jue Wang, Huihui Pan\*
 
 [**Main Contributions:**](https://ieeexplore.ieee.org/abstract/document/10120925) 
