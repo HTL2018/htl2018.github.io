@@ -63,7 +63,7 @@ published in IEEE Transactions on Automation Science and Engineering
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TASE</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TTE</div><img src='images/IntegratedMotionControl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Finite-Time Fault-Tolerant Integrated Motion Control for Autonomous Vehicles With Prescribed Performance](https://ieeexplore.ieee.org/abstract/document/9999451)
