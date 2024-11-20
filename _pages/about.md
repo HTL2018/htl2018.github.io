@@ -112,8 +112,8 @@ published in Control Engineering Practice
 </div>
 </div>
 
-- [A safe motion planning and reliable control framework for autonomous vehicles](https://ieeexplore.ieee.org/abstract/document/10417770), Huihui Pan\*, Mao Luo, Jue Wang, **Tenglong Huang**, Weichao Sun, **IEEE Transactions on Intelligent Vehicles**
-- [Path Planning and Fault-tolerant Control Based on Resistance Network for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9338441), **Tenglong Huang**,  Huihui Pan\*, Mao Luo, Jue Wang, **Tenglong Huang**, Weichao Sun, **4th CAA International Conference on Vehicular Control and Intelligence (CVCI 2020)**
+- [A Safe Motion Planning and Reliable Control Framework for Autonomous Vehicles](https://ieeexplore.ieee.org/abstract/document/10417770), Huihui Pan\*, Mao Luo, Jue Wang, **Tenglong Huang**, Weichao Sun, **IEEE Transactions on Intelligent Vehicles**
+- [Path Planning and Fault-tolerant Control Based on Resistance Network for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9338441), **Tenglong Huang**,  Huihui Pan\*, Chi Zhang, Weichao Sun, **4th CAA International Conference on Vehicular Control and Intelligence (CVCI 2020)**
 
 
 <!-- 
