@@ -79,7 +79,7 @@ published in IEEE Transactions on Transportation Electrification
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIV</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIV</div><img src='images/TIV.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Adaptive Bioinspired Preview Suspension Control With Constrained Velocity Planning for Autonomous Vehicles](https://ieeexplore.ieee.org/abstract/document/10120925)
