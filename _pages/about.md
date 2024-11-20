@@ -138,7 +138,8 @@ published in Control Engineering Practice
 -->
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2017.08* World Robot Contest Fighting Robot Competition. Second Place (亚军-全国一等奖).
+
 <!--
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
