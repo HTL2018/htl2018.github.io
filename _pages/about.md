@@ -15,6 +15,10 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<style> 
+a{ text-decoration:none} 
+</style> 
+
 <span class='anchor' id='about-me'></span>
 
 **Tenglong Huang (黄腾龙)** received Ph.D. degree in Control Science and Engineering from Harbin Institute of Technology (哈尔滨工业大学) under the supervision of [Prof. Huijun Gao](https://scholar.google.com.hk/citations?user=2DdpHLEAAAAJ&hl=zh-CN&oi=ao) (师从[高会军教授](https://homepage.hit.edu.cn/gaohuijun)). A member of IEEE, Chinese Society of Automation, and Chinese Society of Artificial Intelligence. Meanwhile, I am an active reviewer of IEEE Transactions on Transportation Electrification, IEEE/ASME Transactions on Mechatronics, IEEE Transactions on Industrial Informatics, IEEE/CAA Journal of Automatica Sinica, IEEE Transactions on Intelligent Vehicles, Applied Intelligence, Robotics (机器人), Information and Control (信息与控制), and other journals. I am also a reviewer, Technical Program Committee, or Workshop Chair of IECON, CVCI, China Automation Conference, ICRAIC, and other conferences.
