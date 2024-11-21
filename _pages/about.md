@@ -40,7 +40,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [Sine Resistance Network-Based Motion Planning Approach for Autonomous Electric Vehicles in Dynamic Environments](https://ieeexplore.ieee.org/abstract/document/9714284)  
 
-published in IEEE Transactions on Transportation Electrification
+published in **IEEE Transactions on Transportation Electrification**
 
 <!-- 
 [<font color=Brown>[PDF]</font>](https://github.com/HTL2018/htl2018.github.io/blob/main/MyPaperPDF/TTE1.pdf) 
@@ -60,7 +60,7 @@ published in IEEE Transactions on Transportation Electrification
 
 [Approximation-Free Prespecified Time Bionic Reliable Control for Vehicle Suspension](https://ieeexplore.ieee.org/document/10246850)
 
-published in IEEE Transactions on Automation Science and Engineering
+published in **IEEE Transactions on Automation Science and Engineering**
 
 **Tenglong Huang**, Jue Wang, Huihui Pan\*
 
@@ -76,7 +76,7 @@ published in IEEE Transactions on Automation Science and Engineering
 
 [Finite-Time Fault-Tolerant Integrated Motion Control for Autonomous Vehicles With Prescribed Performance](https://ieeexplore.ieee.org/abstract/document/9999451)
 
-published in IEEE Transactions on Transportation Electrification
+published in **IEEE Transactions on Transportation Electrification**
 
 **Tenglong Huang**, Jue Wang, Huihui Pan\*, Weichao Sun
 
@@ -92,7 +92,7 @@ published in IEEE Transactions on Transportation Electrification
 
 [Adaptive Bioinspired Preview Suspension Control With Constrained Velocity Planning for Autonomous Vehicles](https://ieeexplore.ieee.org/abstract/document/10120925)
 
-published in IEEE Transactions on Intelligent Vehicles
+published in **IEEE Transactions on Intelligent Vehicles**
 
 **Tenglong Huang**, Jue Wang, Huihui Pan\*
 
@@ -109,7 +109,7 @@ published in IEEE Transactions on Intelligent Vehicles
 
 [A Sensor Fault Detection, Isolation, and Estimation Method for Intelligent Vehicles](https://www.sciencedirect.com/science/article/abs/pii/S0967066123001892)
 
-published in Control Engineering Practice
+published in **Control Engineering Practice**
 
 **Tenglong Huang**, Huihui Pan\*, Weichao Sun
 
@@ -120,8 +120,8 @@ published in Control Engineering Practice
 </div>
 </div>
 
-- [A Safe Motion Planning and Reliable Control Framework for Autonomous Vehicles](https://ieeexplore.ieee.org/abstract/document/10417770), Huihui Pan\*, Mao Luo, Jue Wang, **Tenglong Huang**, Weichao Sun, **IEEE Transactions on Intelligent Vehicles**
-- [Path Planning and Fault-tolerant Control Based on Resistance Network for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9338441), **Tenglong Huang**,  Huihui Pan\*, Chi Zhang, Weichao Sun, **4th CAA International Conference on Vehicular Control and Intelligence (CVCI 2020)**
+- [A Safe Motion Planning and Reliable Control Framework for Autonomous Vehicles](https://ieeexplore.ieee.org/abstract/document/10417770), Huihui Pan\*, Mao Luo, Jue Wang, **Tenglong Huang**, Weichao Sun, published in **IEEE Transactions on Intelligent Vehicles**
+- [Path Planning and Fault-tolerant Control Based on Resistance Network for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9338441), **Tenglong Huang**,  Huihui Pan\*, Chi Zhang, Weichao Sun, published in **4th CAA International Conference on Vehicular Control and Intelligence (CVCI 2020)**
 
 
 <!-- 
