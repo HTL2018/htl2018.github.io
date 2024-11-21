@@ -47,7 +47,7 @@ published in **IEEE Transactions on Transportation Electrification**
 -->
 
 
-**Tenglong Huang**, Huihui Pan\*, Weichao Sun, Huijun Gao\*
+**Tenglong Huang**, Huihui Pan\*, Weichao Sun, Huijun Gao\* (\* Corresponding Author)
 
 [**Main Contributions:**](https://ieeexplore.ieee.org/abstract/document/9714284) 
 - A new sine grid is presented for the first time to construct a novel sine resistance network (SRN). The proposed novel sine grid can avoid curvature discontinuity. Thus, the path smoothness and overall performance are improved significantly.
