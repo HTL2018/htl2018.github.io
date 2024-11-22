@@ -38,9 +38,13 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TTE</div><img src='images/SineResistanceNetwork.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Sine Resistance Network-Based Motion Planning Approach for Autonomous Electric Vehicles in Dynamic Environments](https://ieeexplore.ieee.org/abstract/document/9714284)  <a href="https://github.com/HTL2018/htl2018.github.io/blob/main/MyPaperPDF/TTE1.pdf" style="text-decoration: none;" style="color:brown;">[PDF]</a>
+[Sine Resistance Network-Based Motion Planning Approach for Autonomous Electric Vehicles in Dynamic Environments](https://ieeexplore.ieee.org/abstract/document/9714284)  <a href="https://github.com/HTL2018/htl2018.github.io/blob/main/MyPaperPDF/TTE1.pdf" style="text-decoration: none; color:brown;">[PDF]</a>
 
 published in **IEEE Transactions on Transportation Electrification**
+
+<!-- 
+<a href="https://github.com/HTL2018/htl2018.github.io/blob/main/MyPaperPDF/TTE1.pdf" style="text-decoration: none;" style="color:brown;">[PDF]</a>
+-->
 
 <!-- 
 [<font color=Brown>[PDF]</font>](https://github.com/HTL2018/htl2018.github.io/blob/main/MyPaperPDF/TTE1.pdf) 
