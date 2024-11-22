@@ -123,7 +123,7 @@ published in **Control Engineering Practice**
 **Tenglong Huang**, Huihui Pan\*, Weichao Sun
 
 [**Main Contributions:**](https://www.sciencedirect.com/science/article/abs/pii/S0967066123001892) 
-- A state estimation method based on the Luenberger observer is constructed for lateral-longitudinal coupled dynamical systems, which allows for efficient state estimation.
+- A state estimation method based on the Luenberger observer is constructed for lateral-longitudinal coupled dynamical systems.
 - The interval observers without dependence on the prior knowledge of perturbation and uncertainties are constructed. The proposed interval observers can be adapted to estimate corresponding fault interval bounds effectively, thereby enabling sensor fault detection and isolation. 
 - A modification to the interval observer structure is proposed and utilized to estimate the occurred sensor fault corresponding to the faulty sensor. This modified interval observer allows for effective adaptive estimation of the upper and lower boundaries of the sensor fault interval.
 </div>
@@ -148,6 +148,7 @@ published in **Control Engineering Practice**
 -->
 
 <!--
+, which allows for efficient state estimation
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
 
