@@ -39,6 +39,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box-text' markdown="1">
 
 [Sine Resistance Network-Based Motion Planning Approach for Autonomous Electric Vehicles in Dynamic Environments](https://ieeexplore.ieee.org/abstract/document/9714284)  [<style="text-decoration: none;">[PDF]</font>](https://github.com/HTL2018/htl2018.github.io/blob/main/MyPaperPDF/TTE1.pdf) 
+ <a href="https://example.com" style="text-decoration: none;">这是一个链接</a>
 
 published in **IEEE Transactions on Transportation Electrification**
 
