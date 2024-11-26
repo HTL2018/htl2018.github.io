@@ -38,7 +38,11 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TTE</div><img src='images/SineResistanceNetwork.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Sine Resistance Network-Based Motion Planning Approach for Autonomous Electric Vehicles in Dynamic Environments](https://ieeexplore.ieee.org/abstract/document/9714284)  <a href="https://github.com/HTL2018/htl2018.github.io/blob/main/MyPaperPDF/TTE1.pdf" style="text-decoration: none; color:brown;">[PDF]</a>
+[Sine Resistance Network-Based Motion Planning Approach for Autonomous Electric Vehicles in Dynamic Environments](https://ieeexplore.ieee.org/abstract/document/9714284)  
+
+<!-- 
+<a href="https://github.com/HTL2018/htl2018.github.io/blob/main/MyPaperPDF/TTE1.pdf" style="text-decoration: none; color:brown;">[PDF]</a>
+-->
 
 published in **IEEE Transactions on Transportation Electrification**
 
@@ -67,7 +71,11 @@ published in **IEEE Transactions on Transportation Electrification**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TASE</div><img src='images/TASE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Approximation-Free Prespecified Time Bionic Reliable Control for Vehicle Suspension](https://ieeexplore.ieee.org/document/10246850) <a href="https://github.com/HTL2018/htl2018.github.io/blob/main/MyPaperPDF/Approximation-Free_Prespecified_Time_Bionic_Reliable_Control_for_Vehicle_Suspension.pdf" style="text-decoration: none; color:brown;">[PDF]</a>
+[Approximation-Free Prespecified Time Bionic Reliable Control for Vehicle Suspension](https://ieeexplore.ieee.org/document/10246850) 
+<!-- 
+<a href="https://github.com/HTL2018/htl2018.github.io/blob/main/MyPaperPDF/Approximation-Free_Prespecified_Time_Bionic_Reliable_Control_for_Vehicle_Suspension.pdf" style="text-decoration: none; color:brown;">[PDF]</a>
+-->
+
 
 published in **IEEE Transactions on Automation Science and Engineering**
 
@@ -83,7 +91,12 @@ published in **IEEE Transactions on Automation Science and Engineering**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TTE</div><img src='images/IntegratedMotionControl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Finite-Time Fault-Tolerant Integrated Motion Control for Autonomous Vehicles With Prescribed Performance](https://ieeexplore.ieee.org/abstract/document/9999451) <a href="https://github.com/HTL2018/htl2018.github.io/blob/main/MyPaperPDF/Finite-Time_Fault-Tolerant_Integrated_Motion_Control_for_Autonomous_Vehicles_With_Prescribed_Performance.pdf" style="text-decoration: none; color:brown;">[PDF]</a>
+[Finite-Time Fault-Tolerant Integrated Motion Control for Autonomous Vehicles With Prescribed Performance](https://ieeexplore.ieee.org/abstract/document/9999451) 
+<!-- 
+<a href="https://github.com/HTL2018/htl2018.github.io/blob/main/MyPaperPDF/Approximation-Free_Prespecified_Time_Bionic_Reliable_Control_for_Vehicle_Suspension.pdf" style="text-decoration: none; color:brown;">[PDF]</a>
+<a href="https://github.com/HTL2018/htl2018.github.io/blob/main/MyPaperPDF/Finite-Time_Fault-Tolerant_Integrated_Motion_Control_for_Autonomous_Vehicles_With_Prescribed_Performance.pdf" style="text-decoration: none; color:brown;">[PDF]</a>
+-->
+
 
 published in **IEEE Transactions on Transportation Electrification**
 
@@ -99,7 +112,10 @@ published in **IEEE Transactions on Transportation Electrification**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIV</div><img src='images/TIV.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Adaptive Bioinspired Preview Suspension Control With Constrained Velocity Planning for Autonomous Vehicles](https://ieeexplore.ieee.org/abstract/document/10120925) <a href="https://github.com/HTL2018/htl2018.github.io/blob/main/MyPaperPDF/Adaptive_Bioinspired_Preview_Suspension_Control_With_Constrained_Velocity_Planning_for_Autonomous_Vehicles.pdf" style="text-decoration: none; color:brown;">[PDF]</a>
+[Adaptive Bioinspired Preview Suspension Control With Constrained Velocity Planning for Autonomous Vehicles](https://ieeexplore.ieee.org/abstract/document/10120925) 
+<!-- 
+<a href="https://github.com/HTL2018/htl2018.github.io/blob/main/MyPaperPDF/Adaptive_Bioinspired_Preview_Suspension_Control_With_Constrained_Velocity_Planning_for_Autonomous_Vehicles.pdf" style="text-decoration: none; color:brown;">[PDF]</a>
+-->
 
 published in **IEEE Transactions on Intelligent Vehicles**
 
@@ -116,7 +132,11 @@ published in **IEEE Transactions on Intelligent Vehicles**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CEP</div><img src='images/CEP-06.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Sensor Fault Detection, Isolation, and Estimation Method for Intelligent Vehicles](https://www.sciencedirect.com/science/article/abs/pii/S0967066123001892) <a href="https://github.com/HTL2018/htl2018.github.io/blob/main/MyPaperPDF/CEP.pdf" style="text-decoration: none; color:brown;">[PDF]</a>
+[A Sensor Fault Detection, Isolation, and Estimation Method for Intelligent Vehicles](https://www.sciencedirect.com/science/article/abs/pii/S0967066123001892) 
+<!-- 
+<a href="https://github.com/HTL2018/htl2018.github.io/blob/main/MyPaperPDF/CEP.pdf" style="text-decoration: none; color:brown;">[PDF]</a>
+-->
+
 
 published in **Control Engineering Practice**
 
