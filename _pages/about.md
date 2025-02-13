@@ -27,8 +27,10 @@ If you are seeking any form of **academic cooperation**, please feel free to ema
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
 
+<!--
 # 🔥 News
 - *2017.08*: &nbsp;🎉🎉 World Robot Contest Fighting Robot Competition. Second Place (亚军-全国一等奖). 
+-->
 
 <!--
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -181,6 +183,9 @@ published in **Control Engineering Practice**
 # 📖 Educations
 - *2019.09 - 2024.05*, Harbin Institute of Technology, College of Astronautics, Control Science and Engineering, Doctor of Engineering (师从[高会军教授](https://homepage.hit.edu.cn/gaohuijun)). 
 - *2015.09 - 2019.06*, Henan University of Technology, College of Electrical Engineering, Automation, Bachelor of Engineering (师从[闫晶晶教授](https://cee.haut.edu.cn/info/1093/7589.htm)).
+
+# 🎯 Work
+- *2024.11 - now*, Northwest A&F University, College of Mechanical and Electronic Engineering, [Associate Professor](https://cmee.nwsuaf.edu.cn/szdw/gjzcry/f5f4b47b9d6342068ccfd7fbeaba0bb6.htm)).
 
 # 🧑‍🎨 Services
 - *2024.11 - now*, Computer Science and Technology, Editorial Board Member. 
