@@ -185,7 +185,7 @@ published in **Control Engineering Practice**
 - *2015.09 - 2019.06*, Henan University of Technology, College of Electrical Engineering, Automation, Bachelor of Engineering (师从[闫晶晶教授](https://cee.haut.edu.cn/info/1093/7589.htm)).
 
 # 🎯 Work
-- *2024.11 - now*, Northwest A&F University, College of Mechanical and Electronic Engineering, [Associate Professor](https://cmee.nwsuaf.edu.cn/szdw/gjzcry/f5f4b47b9d6342068ccfd7fbeaba0bb6.htm)).
+- *2024.11 - now*, Northwest A&F University, College of Mechanical and Electronic Engineering, [Associate Professor](https://cmee.nwsuaf.edu.cn/szdw/gjzcry/f5f4b47b9d6342068ccfd7fbeaba0bb6.htm).
 
 # 🧑‍🎨 Services
 - *2024.11 - now*, Computer Science and Technology, Editorial Board Member. 
