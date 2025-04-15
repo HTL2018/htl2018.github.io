@@ -25,8 +25,8 @@ author:
   avatar           : "images/square.png"
   bio              : "Harbin Institute of Technology"
   location         : "Xi'an, China"
-  employer         :"Harbin Institute of Technology"
-  pubmed           : 
+  employer         : "Harbin Institute of Technology"
+  pubmed           : "Harbin Institute of Technology"
   googlescholar    : # e.g., "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "huangtenglong@hotmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
