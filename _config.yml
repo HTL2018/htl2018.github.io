@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Tenglong Huang"
   avatar           : "images/square.png"
-  bio              : 
+  bio              : "Harbin Institute of Technology"
   location         : "Xi'an, China"
-  employer         : "Harbin Institute of Technology"
+  employer         : 
   pubmed           : 
   googlescholar    : # e.g., "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "huangtenglong@hotmail.com"
