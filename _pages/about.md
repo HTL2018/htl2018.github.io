@@ -194,6 +194,7 @@ published in **Control Engineering Practice**
 - *2025.04 - now*, Journal of Artificial Intelligence and Control Systems, Young Editorial Board Member.
 - *2024.11 - now*, Computer Science and Technology, Editorial Board Member. 
 - *2024.11 - now*, Automation, Control and Intelligent Systems, Editorial Board Member.
+- *2025.05 - 2025.10*, [Energies](https://www.mdpi.com/journal/energies), [Guest Editor](https://www.mdpi.com/journal/energies/special_issues/D03306K1YG).
 
 <!-- 
 # 💬 Invited Talks
