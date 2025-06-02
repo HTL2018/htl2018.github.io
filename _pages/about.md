@@ -190,6 +190,7 @@ published in **Control Engineering Practice**
 - *2024.10 - now*, Northwest A&F University, College of Mechanical and Electronic Engineering, [Associate Professor](https://cmee.nwsuaf.edu.cn/szdw/gjzcry/f5f4b47b9d6342068ccfd7fbeaba0bb6.htm).
 
 # 🧑‍🎨 Services
+- *2025.04 - now*, [Unmanned Systems Technology](https://umst.cbpt.cnki.net/WKD/WebPublication/index.aspx?mid=umst), Early Career Editorial Board Member.
 - *2025.04 - now*, [Drones](https://www.mdpi.com/journal/drones), Early Career Editorial Board Member.
 - *2025.04 - now*, Journal of Artificial Intelligence and Control Systems, Young Editorial Board Member.
 - *2024.11 - now*, Computer Science and Technology, Editorial Board Member. 
