@@ -153,6 +153,7 @@ published in **Control Engineering Practice**
 </div>
 </div>
 
+- [Adaptive Finite-Time Fuzzy Prescribed Performance Fault-Tolerant Control for Uncertain Active Suspensions with Actuator Nonlinear Characteristics](https://www.sciencedirect.com/science/article/pii/S0022460X25003062), Yilan Lu, **Tenglong Huang\* **, Jinhua Zhang, Xin Wang, Xuejie Guo, published in **Journal of Sound and Vibration**
 - [A Safe Motion Planning and Reliable Control Framework for Autonomous Vehicles](https://ieeexplore.ieee.org/abstract/document/10417770), Huihui Pan\*, Mao Luo, Jue Wang, **Tenglong Huang**, Weichao Sun, published in **IEEE Transactions on Intelligent Vehicles**
 - [Path Planning and Fault-tolerant Control Based on Resistance Network for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9338441), **Tenglong Huang**,  Huihui Pan\*, Chi Zhang, Weichao Sun, published in **4th CAA International Conference on Vehicular Control and Intelligence (CVCI 2020)**
 
