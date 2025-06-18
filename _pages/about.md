@@ -193,11 +193,14 @@ published in **Control Engineering Practice**
 # 🧑‍🎨 Services
 - *2025.05 - now*, [Unmanned Systems Technology](https://umst.cbpt.cnki.net/WKD/WebPublication/index.aspx?mid=umst), Early Career Editorial Board Member.
 - *2025.04 - now*, [Drones](https://www.mdpi.com/journal/drones), Early Career Editorial Board Member.
-- *2025.04 - now*, Journal of Artificial Intelligence and Control Systems, Young Editorial Board Member.
 - *2025.01 - now*, [Journal of Xi'an Jiaotong University](https://zkxb.xjtu.edu.cn/homeNav?lang=zh), [Early Career Editorial Board Member](https://zkxb.xjtu.edu.cn/academicDetail?columnId=224815&columnName=%E5%8A%A8%E6%80%81%E4%BF%A1%E6%81%AF&lang=zh).
+- *2025.04 - now*, Journal of Artificial Intelligence and Control Systems, Young Editorial Board Member.
+- *2025.01 - now*, [Journal of Nanjing University of Science and Technology](https://zrxuebao.njust.edu.cn/#/), [Early Career Editorial Board Member](https://zrxuebao.njust.edu.cn/#/NewsDetails?ItemId=149).
 - *2024.11 - now*, Computer Science and Technology, Editorial Board Member. 
 - *2024.11 - now*, Automation, Control and Intelligent Systems, Editorial Board Member.
 - *2025.05*, [Energies](https://www.mdpi.com/journal/energies), [Guest Editor](https://www.mdpi.com/journal/energies/special_issues/D03306K1YG).
+
+
 
 <!-- 
 # 💬 Invited Talks
