@@ -19,9 +19,7 @@ redirect_from:
 
 **Tenglong Huang (黄腾龙)** received Ph.D. degree in Control Science and Engineering from Harbin Institute of Technology (哈尔滨工业大学) under the supervision of [Prof. Huijun Gao](https://scholar.google.com.hk/citations?user=2DdpHLEAAAAJ&hl=zh-CN&oi=ao) (师从[高会军教授](https://homepage.hit.edu.cn/gaohuijun)). 
 
-<!-- 
 A member of IEEE, Chinese Society of Automation, and Chinese Society of Artificial Intelligence. Meanwhile, I am an active reviewer of IEEE Transactions on Automation Science and Engineering, IEEE Transactions on Transportation Electrification, IEEE/ASME Transactions on Mechatronics, IEEE Transactions on Industrial Informatics, IEEE/CAA Journal of Automatica Sinica, IEEE Transactions on Intelligent Vehicles, Applied Intelligence,  Circuits, Systems, and Signal Processing, Robotics (机器人), Control and Decision (控制与决策),  Control Theory and Applications (控制理论与应用),  Information and Control (信息与控制), and other journals. I am also a Reviewer, Technical Program Committee, or Workshop Chair of IECON, CVCI, China Automation Conference, ICRAIC, and other conferences.
--->
 
 My research interest includes intelligent vehicles, mobile robots, robotic manipulators, intelligent agriculture, and related research topics on nonlinear control, intelligent control, motion planning, fault-tolerant control, etc. 
 
@@ -201,6 +199,7 @@ published in **Control Engineering Practice**
 - *2024.11 - now*, Computer Science and Technology, Editorial Board Member. 
 - *2024.11 - now*, Automation, Control and Intelligent Systems, Editorial Board Member.
 - *2025.05*, [Energies](https://www.mdpi.com/journal/energies), [Guest Editor](https://www.mdpi.com/journal/energies/special_issues/D03306K1YG).
+- *2025.10*, 8th International Conference on Robotics, Control and Automation Engineering, [Workshop Chair](https://www.rcae.net/s5.html).
 
 
 
