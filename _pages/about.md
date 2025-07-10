@@ -27,7 +27,7 @@ Meanwhile, I am an active reviewer of IEEE Transactions on Automation Science an
 I am also a Reviewer, Technical Program Committee, or Workshop Chair of IECON, CVCI, China Automation Conference, ICRAIC, and other conferences.
 -->
 
-My research interest includes intelligent vehicles, mobile robots, robotic manipulators, intelligent agriculture, and related research topics on nonlinear control, intelligent control, motion planning, fault-tolerant control, etc. 
+My research interests include intelligent vehicles, mobile robots, robotic manipulators, intelligent agriculture, and related research topics on nonlinear control, intelligent control, motion planning, fault-tolerant control, etc. 
 
 If you are seeking any form of **academic cooperation**, please feel free to contact me at [huangtenglong@hotmail.com]() (or WeChat: 15893529535).
 
