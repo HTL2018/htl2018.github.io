@@ -203,9 +203,10 @@ published in **Control Engineering Practice**
 - *2025.01 - now*, [Journal of Xi'an Jiaotong University](https://zkxb.xjtu.edu.cn/homeNav?lang=zh), [Early Career Editorial Board Member](https://zkxb.xjtu.edu.cn/academicDetail?columnId=224815&columnName=%E5%8A%A8%E6%80%81%E4%BF%A1%E6%81%AF&lang=zh).
 - *2025.04 - now*, Journal of Artificial Intelligence and Control Systems, Young Editorial Board Member.
 - *2025.01 - now*, [Journal of Nanjing University of Science and Technology](https://zrxuebao.njust.edu.cn/#/), [Early Career Editorial Board Member](https://zrxuebao.njust.edu.cn/#/NewsDetails?ItemId=149).
+- *2025.07 - now*, Applied Mathematics and Statistics, Young Editorial Board Member.
+- *2025.05*, [Energies](https://www.mdpi.com/journal/energies), [Guest Editor](https://www.mdpi.com/journal/energies/special_issues/D03306K1YG).
 - *2024.11 - now*, Computer Science and Technology, Editorial Board Member. 
 - *2024.11 - now*, Automation, Control and Intelligent Systems, Editorial Board Member.
-- *2025.05*, [Energies](https://www.mdpi.com/journal/energies), [Guest Editor](https://www.mdpi.com/journal/energies/special_issues/D03306K1YG).
 - *2025.10*, [2025 8th International Conference on Robotics, Control and Automation Engineering](https://www.rcae.net/index.html), [Special Session Chair](https://www.rcae.net/s5.html).
 - *2025.10*, [The 5th International Conference on Robotics, Automation and Intelligent Control](https://www.icraic.org/), [Workshop Chair](https://www.icraic.org/workshops-2025/).
 
