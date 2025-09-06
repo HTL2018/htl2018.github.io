@@ -204,6 +204,7 @@ published in **Control Engineering Practice**
 - *2025.04 - now*, Journal of Artificial Intelligence and Control Systems, Young Editorial Board Member.
 - *2025.01 - now*, [Journal of Nanjing University of Science and Technology](https://zrxuebao.njust.edu.cn/#/), [Early Career Editorial Board Member](https://zrxuebao.njust.edu.cn/#/NewsDetails?ItemId=149).
 - *2025.05 - now*, [Unmanned Systems Technology](https://umst.cbpt.cnki.net/WKD/WebPublication/index.aspx?mid=umst), Early Career Editorial Board Member.
+- *2025.01 - now*, Applied Artificial Intelligence Research, Young Editorial Board Member.
 - *2025.07 - now*, Applied Mathematics and Statistics, Young Editorial Board Member.
 - *2025.05*, [Energies](https://www.mdpi.com/journal/energies), [Guest Editor](https://www.mdpi.com/journal/energies/special_issues/D03306K1YG).
 - *2024.11 - now*, Computer Science and Technology, Editorial Board Member. 
