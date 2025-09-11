@@ -191,7 +191,7 @@ published in **Control Engineering Practice**
 -->
 
 # 📖 Educations
-- *2019.09 - 2024.05*, Harbin Institute of Technology, College of Astronautics, Control Science and Engineering, Doctor of Engineering under the Supervision of [Prof. Huijun Gao](https://scholar.google.com.hk/citations?user=2DdpHLEAAAAJ&hl=zh-CN&oi=ao) (师从[高会军教授](https://homepage.hit.edu.cn/gaohuijun)). 
+- *2019.09 - 2024.05*, Harbin Institute of Technology, College of Astronautics, Control Science and Engineering, Doctor of Philosophy under the Supervision of [Prof. Huijun Gao](https://scholar.google.com.hk/citations?user=2DdpHLEAAAAJ&hl=zh-CN&oi=ao) (师从[高会军教授](https://homepage.hit.edu.cn/gaohuijun)). 
 - *2015.09 - 2019.06*, Henan University of Technology, College of Electrical Engineering, Automation, Bachelor of Engineering under the Supervision of [Prof. Jingjing Yan](https://ieeexplore.ieee.org/author/37540038300) (师从[闫晶晶教授](https://cee.haut.edu.cn/info/1093/7589.htm)).
 
 # 🎯 Works
