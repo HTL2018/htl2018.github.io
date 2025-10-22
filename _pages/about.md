@@ -207,6 +207,7 @@ published in **Control Engineering Practice**
 - *2025.01 - now*, Applied Artificial Intelligence Research, Young Editorial Board Member.
 - *2025.07 - now*, Applied Mathematics and Statistics, Young Editorial Board Member.
 - *2025.05*, [Energies](https://www.mdpi.com/journal/energies), [Guest Editor](https://www.mdpi.com/journal/energies/special_issues/D03306K1YG).
+- *2025.10*, [Sensors, Energies, Applied Sciences, Electronics, Technologies, Data, Modelling](https://www.mdpi.com/topics/84PCE455R7), [Topic Editor](https://www.mdpi.com/journal/energies/special_issues/D03306K1YG).
 - *2024.11 - now*, Computer Science and Technology, Editorial Board Member. 
 - *2024.11 - now*, Automation, Control and Intelligent Systems, Editorial Board Member.
 - *2025.10*, [2025 8th International Conference on Robotics, Control and Automation Engineering](https://www.rcae.net/index.html), [Special Session Chair](https://www.rcae.net/s5.html).
