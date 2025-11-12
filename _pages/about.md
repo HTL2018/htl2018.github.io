@@ -218,10 +218,14 @@ published in **Control Engineering Practice**
 - *2026.01*, [2026 International Conference on Robotics, Automation and Intelligent Transportation Systems](https://www.icraits.org/), [Workshop Chair](https://www.icraits.org/workshops/).
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2025.11*, [2025 12th International Forum on Electrical Engineering and Automation](https://www.ifeea.info/), Invited Speaker.
+
 
 <!-- 
+# 💬 Invited Talks
+- *2025.11*, 2025 12th International Forum on Electrical Engineering and Automation. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 -->
