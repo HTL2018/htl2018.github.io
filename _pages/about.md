@@ -215,6 +215,10 @@ published in **Control Engineering Practice**
 - *2025.10*, [The 5th International Conference on Robotics, Automation and Intelligent Control](https://www.icraic.org/), [Workshop Chair](https://www.icraic.org/workshops-2025-2/).
 - *2025.11*, [2025 10th Asia-Pacific Conference on Intelligent Robot Systems](https://www.acirs.org/index.html), [Special Session Chair](https://www.acirs.org/s7.html).
 - *2025.12*, [2025 3rd International Conference on Electric Vehicle and Vehicle Engineering](https://www.cevve.org/index.html), [Special Session Chair](https://www.cevve.org/ss).
+- *2026.01*, [2026 International Conference on Robotics, Automation and Intelligent Transportation Systems](https://www.icraits.org/), [Workshop Chair](https://www.icraits.org/workshops/).
+
+
+(RAITS 2026)
 
 
 <!-- 
