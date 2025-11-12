@@ -217,15 +217,11 @@ published in **Control Engineering Practice**
 - *2025.12*, [2025 3rd International Conference on Electric Vehicle and Vehicle Engineering](https://www.cevve.org/index.html), [Special Session Chair](https://www.cevve.org/ss).
 - *2026.01*, [2026 International Conference on Robotics, Automation and Intelligent Transportation Systems](https://www.icraits.org/), [Workshop Chair](https://www.icraits.org/workshops/).
 
-
-(RAITS 2026)
-
-
-<!-- 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
+<!-- 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 -->
