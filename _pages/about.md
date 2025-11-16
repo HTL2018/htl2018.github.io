@@ -217,7 +217,7 @@ published in **Control Engineering Practice**
 - *2025.12*, [2025 3rd International Conference on Electric Vehicle and Vehicle Engineering](https://www.cevve.org/index.html), [Special Session Chair](https://www.cevve.org/ss).
 - *2026.01*, [2026 International Conference on Robotics, Automation and Intelligent Transportation Systems](https://www.icraits.org/), [Workshop Chair](https://www.icraits.org/workshops/).
 
-# 💬 Invited Presentations
+# 💬 Invited Talks
 - *2025.11*, [2025 12th International Forum on Electrical Engineering and Automation](https://www.ifeea.info/), Invited Speaker.
 
 
