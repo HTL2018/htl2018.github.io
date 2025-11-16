@@ -21,6 +21,10 @@ main:
   - title: "Services"
     url: "/#-services"
 
+  - title: "Invited Presentations"
+    url: "/#-invited-presentations"
+
+
   #- title: "Invited Talks"
   #  url: "/#-invited-talks"
 
