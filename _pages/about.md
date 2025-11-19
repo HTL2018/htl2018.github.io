@@ -199,6 +199,7 @@ published in **Control Engineering Practice**
 - *2024.10 - now*, Northwest A&F University, College of Mechanical and Electronic Engineering, [Associate Professor](https://cmee.nwsuaf.edu.cn/szdw/gjzcry/f5f4b47b9d6342068ccfd7fbeaba0bb6.htm).
 
 # 🧑‍🎨 Services
+- *2025.11 - now*, [Scientific Reports](https://www.nature.com/srep/), Editorial Board Member.
 - *2025.08 - now*, [Biomimetic Intelligence and Robotics](https://www.sciencedirect.com/journal/biomimetic-intelligence-and-robotics), Early Career Editorial Board Member.
 - *2025.04 - now*, [Drones](https://www.mdpi.com/journal/drones), Early Career Editorial Board Member.
 - *2025.01 - now*, [Journal of Xi'an Jiaotong University](https://zkxb.xjtu.edu.cn/homeNav?lang=zh), [Early Career Editorial Board Member](https://zkxb.xjtu.edu.cn/academicDetail?columnId=224815&columnName=%E5%8A%A8%E6%80%81%E4%BF%A1%E6%81%AF&lang=zh).
