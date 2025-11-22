@@ -217,7 +217,7 @@ published in **Control Engineering Practice**
 - *2025.11*, [2025 10th Asia-Pacific Conference on Intelligent Robot Systems](https://www.acirs.org/index.html), [Special Session Chair](https://www.acirs.org/s7.html).
 - *2025.12*, [2025 3rd International Conference on Electric Vehicle and Vehicle Engineering](https://www.cevve.org/index.html), [Special Session Chair](https://www.cevve.org/ss).
 - *2026.01*, [2026 International Conference on Robotics, Automation and Intelligent Transportation Systems](https://www.icraits.org/), [Workshop Chair](https://www.icraits.org/workshops/).
-- *2026.02*, [2026 10th International Conference on Artificial Intelligence, Automation and Control Technologies](https://www.icraits.org/), [Special Session Chair](https://www.aiact.net/Session.html).
+- *2026.02*, [2026 10th International Conference on Artificial Intelligence, Automation and Control Technologies](https://www.aiact.net/index.html), [Special Session Chair](https://www.aiact.net/Session.html).
 
 
 # 💬 Invited Talks
